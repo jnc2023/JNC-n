@@ -105,7 +105,8 @@ header nav .branding{
 @keyframes anima{
     50%{
        top: 135px; 
-       left: 180px;  
+       left: 180px;
+       overflow: hidden; 
     }
 }
 .hero .right{
